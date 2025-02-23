@@ -12,7 +12,7 @@ Skills for these are: Workflow tool, Lua, Javascript, C#, Sql Server, Jenkins, A
 In my spare time, I do a lot of self study on different topics like: Angular, Unity for VR application development, C#, crypto related topics. 
 Also doing sports: Fitness and Martial arts.
 
-For more information can look on my LinkedIn: https://www.linkedin.com/in/sdg78/
+For more information you can look on my LinkedIn: https://www.linkedin.com/in/sdg78/
 
 <!---
 SdgSoft/SdgSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
